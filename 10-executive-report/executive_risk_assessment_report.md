@@ -4,7 +4,7 @@
 
 Northstar Health Network conducted a third-party security risk assessment of MedCloud Solutions, a proposed provider of cloud-based patient record management software. The assessment evaluated the vendor's security controls, data protection practices, access management, vulnerability management, incident response capabilities, business continuity arrangements, and third-party oversight.
 
-The assessment identified significant control gaps and areas where sufficient supporting evidence was unavailable to establish control effectiveness. The baseline risk register contains **4 Critical risks, 15 High risks, and 1 Moderate risk**. The most significant concerns involve user access reviews, multi-factor authentication coverage, privileged access management, vulnerability scanning, and patch management.
+The assessment identified significant control gaps and areas where sufficient supporting evidence was unavailable to establish control effectiveness. The baseline risk register contains **5 Critical risks, 14 High risks, and 1 Moderate risk**. The most significant concerns involve user access reviews, multi-factor authentication coverage, privileged access management, vulnerability scanning, and patch management.
 
 Based on the baseline assessment, the recommendation is to **defer production approval** until critical risks have been addressed, required evidence has been reviewed, and authorized management has accepted any remaining risk.
 
@@ -29,8 +29,8 @@ The initial assessment recorded 20 risks across the vendor's security and operat
 
 | Risk rating | Number of risks | Management priority |
 |---|---:|---|
-| Critical | 4 | Immediate attention |
-| High | 15 | Prioritized remediation |
+| Critical | 5 | Immediate attention |
+| High | 14 | Prioritized remediation |
 | Moderate | 1 | Planned treatment and monitoring |
 | **Total** | **20** | |
 
