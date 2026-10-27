@@ -23,13 +23,13 @@ For this portfolio project, responses and evidence will be simulated. They do no
 
 ### A. Governance and Security Policies
 
-**Q01 — Information Security Policy**
+**Q01 - Information Security Policy**
 
 Does the organization maintain an approved information security policy that is reviewed periodically and communicated to relevant personnel?
 
 Suggested evidence: Approved security policy and review date.
 
-**Q02 — Security Roles and Responsibilities**
+**Q02 - Security Roles and Responsibilities**
 
 Are information security responsibilities formally assigned to personnel responsible for managing and protecting the service?
 
@@ -37,19 +37,19 @@ Suggested evidence: Security organizational chart, role descriptions, or respons
 
 ### B. Identity and Access Management
 
-**Q03 — User Access Control**
+**Q03 - User Access Control**
 
 Are user accounts provisioned, modified, and revoked through an authorized process based on business need and least privilege?
 
 Suggested evidence: Access management procedure and sample access review records.
 
-**Q04 — Multi-Factor Authentication**
+**Q04 - Multi-Factor Authentication**
 
 Is multi-factor authentication enforced for privileged accounts and remote access to sensitive systems?
 
 Suggested evidence: Authentication policy or configuration screenshots with sensitive details redacted.
 
-**Q05 — Privileged Access Management**
+**Q05 - Privileged Access Management**
 
 Are administrative accounts restricted, monitored, and periodically reviewed?
 
@@ -57,19 +57,19 @@ Suggested evidence: Privileged access policy and administrative access review re
 
 ### C. Data Protection and Privacy
 
-**Q06 — Encryption**
+**Q06 - Encryption**
 
 Is sensitive data encrypted in transit and at rest using appropriately configured encryption mechanisms?
 
 Suggested evidence: Encryption standards and relevant configuration records.
 
-**Q07 — Data Retention and Secure Disposal**
+**Q07 - Data Retention and Secure Disposal**
 
 Are data retention, deletion, and secure disposal requirements documented and followed?
 
 Suggested evidence: Data retention policy and deletion procedures.
 
-**Q08 — Data Privacy and Handling**
+**Q08 - Data Privacy and Handling**
 
 Are sensitive and personal data classified, handled, and protected according to documented privacy and security requirements?
 
@@ -77,13 +77,13 @@ Suggested evidence: Data classification policy, privacy procedures, or data hand
 
 ### D. Vulnerability and Patch Management
 
-**Q09 — Vulnerability Scanning**
+**Q09 - Vulnerability Scanning**
 
 Are systems supporting the service scanned for vulnerabilities on a defined schedule and when significant changes or threats warrant additional assessment?
 
 Suggested evidence: Vulnerability management procedure and sample scan summary.
 
-**Q10 — Patch Management**
+**Q10 - Patch Management**
 
 Are security patches prioritized and applied within defined timeframes based on severity and risk?
 
@@ -91,13 +91,13 @@ Suggested evidence: Patch management policy and remediation tracking records.
 
 ### E. Logging and Security Monitoring
 
-**Q11 — Security Logging**
+**Q11 - Security Logging**
 
 Are relevant security events, including authentication activity and privileged actions, logged and retained according to documented requirements?
 
 Suggested evidence: Logging standard and log retention settings.
 
-**Q12 — Security Monitoring and Alerting**
+**Q12 - Security Monitoring and Alerting**
 
 Are security logs monitored for suspicious activity, with alerts investigated and escalated when necessary?
 
@@ -105,13 +105,13 @@ Suggested evidence: Monitoring procedures, alert workflows, or incident tickets 
 
 ### F. Incident Response
 
-**Q13 — Incident Response Plan**
+**Q13 - Incident Response Plan**
 
 Does the vendor maintain a documented incident response plan that assigns responsibilities and defines investigation, containment, recovery, and communication procedures?
 
 Suggested evidence: Incident response plan and exercise summary.
 
-**Q14 — Incident Notification**
+**Q14 - Incident Notification**
 
 Are contractual incident notification requirements defined, including how and when Northstar Health Network would be notified of incidents affecting its data or service?
 
@@ -119,13 +119,13 @@ Suggested evidence: Proposed contract clauses, notification procedure, or incide
 
 ### G. Business Continuity and Disaster Recovery
 
-**Q15 — Backup and Recovery**
+**Q15 - Backup and Recovery**
 
 Are backups performed, protected against unauthorized access, and tested to verify that data can be restored?
 
 Suggested evidence: Backup policy and recent restore-test summary.
 
-**Q16 — Business Continuity and Disaster Recovery**
+**Q16 - Business Continuity and Disaster Recovery**
 
 Are documented continuity and disaster recovery plans maintained and tested for the service?
 
@@ -133,13 +133,13 @@ Suggested evidence: Business continuity plan, disaster recovery plan, and test r
 
 ### H. Secure Development and Change Management
 
-**Q17 — Secure Software Development**
+**Q17 - Secure Software Development**
 
 Are security requirements integrated into software development, code review, and testing processes?
 
 Suggested evidence: Secure development policy, code review procedures, or security testing summaries.
 
-**Q18 — Change Management**
+**Q18 - Change Management**
 
 Are production changes authorized, tested, documented, and reviewed before implementation, with emergency changes subject to appropriate controls?
 
@@ -147,7 +147,7 @@ Suggested evidence: Change management policy and sample change records.
 
 ### I. Third Parties and Subcontractors
 
-**Q19 — Subcontractor Risk Management**
+**Q19 - Subcontractor Risk Management**
 
 Are subcontractors that may access, process, or store Northstar Health Network data identified and assessed for relevant security and privacy risks?
 
@@ -155,7 +155,7 @@ Suggested evidence: Subprocessor list, third-party assessment procedure, or cont
 
 ### J. Independent Assurance and Compliance
 
-**Q20 — Independent Security Assurance**
+**Q20 - Independent Security Assurance**
 
 Does the vendor obtain independent security assessments or audits appropriate to the service, and can it provide relevant reports or summaries under suitable confidentiality terms?
 
