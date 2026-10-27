@@ -9,7 +9,7 @@
 | Service | Cloud-based patient record management SaaS |
 | Vendor Risk Tier | High |
 | Plan Owner | GRC Analyst |
-| Plan Status | Proposed — Pending Vendor Agreement |
+| Plan Status | Proposed - Pending Vendor Agreement |
 
 ## 2. Remediation Objectives
 
