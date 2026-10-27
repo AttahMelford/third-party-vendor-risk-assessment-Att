@@ -57,8 +57,8 @@ Control statuses distinguish implemented, partially implemented, not implemented
 
 The baseline risk register contains **20 documented risks**:
 
-- **4 Critical**
-- **15 High**
+- **5 Critical**
+- **14 High**
 - **1 Moderate**
 
 Priority findings include access review weaknesses, unverified MFA coverage, privileged access concerns, insufficient evidence of vulnerability scanning and patch management, and gaps in incident response, resilience, and vendor assurance.
